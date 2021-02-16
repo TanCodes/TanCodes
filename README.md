@@ -30,4 +30,4 @@
 
 ![](https://raw.githubusercontent.com/TanCodes/img/main/ezgif-6-c5c72c3f9fb3.gif?token=APMOA4SUNFX4W2LRM4NNI7LAFQDAU) 
 > My goal is to become a Full stack developer & a Data Scientist .
->For this i'm working hard.Soon i'll do achive my goal & make my parents Proud :)
+>For this i'm working hard. Soon i'll do achive my goal & make my parents Proud :)

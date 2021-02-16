@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay  👋 👨‍💻
 &nbsp;
-![](https://raw.githubusercontent.com/TanCodes/img/main/gitimg.png?token=APMOA4TTHOJ2KMZ7TMDNTIDAFQC7A)
+![](https://raw.githubusercontent.com/TanCodes/img/main/gitimg.png?token=APMOA4UPRTOXQUZ5RF3O4TDAFQDXS)
 #### You can call me a self taught half stack developer haha. The coder behind the TanCodes. I'm a programmer who is passionate about making websites , web apps , Desktop apps & web designings. Currently learning Data Science because i love coding with Python. 
 &nbsp;
 ## My Tech Stack 🤘
@@ -28,6 +28,6 @@
 * [Behance](https://www.behance.net/tanmaybrv) ✍🏾
 * [YouTube](https://www.youtube.com/channel/UC370GTtJnvWs8wDH9UXoBzQ?view_as=subscriber) 🔔
 
-![](https://raw.githubusercontent.com/TanCodes/img/main/ezgif-6-c5c72c3f9fb3.gif?token=APMOA4SUNFX4W2LRM4NNI7LAFQDAU) 
+![](https://raw.githubusercontent.com/TanCodes/img/main/ezgif-6-c5c72c3f9fb3.gif?token=APMOA4TBHSYOOUPLS74CZFLAFQDYM) 
 > My goal is to become a Full stack developer & a Data Scientist .
 >For this i'm working hard. Soon i'll do achive my goal & make my parents Proud :)

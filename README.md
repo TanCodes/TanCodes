@@ -1,7 +1,7 @@
 # Hi, I'm Tanmay  👋 👨‍💻
 &nbsp; 
 <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/gitimg.png"> 
+    <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/github.png"> 
 </p>
 
 #### You can call me a self taught half stack developer haha. The coder behind the TanCodes. I'm a programmer who is passionate about making websites , web apps , Desktop apps & web designings. Currently learning Data Science because i love coding with Python.

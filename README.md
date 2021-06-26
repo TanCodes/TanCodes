@@ -4,8 +4,9 @@
     <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/github.png"> 
 </p>
 
-#### I am  Tanmay Barvi from India . I'm currently in my final year, pursuing a 3-year bachelor's degree in Information technology. Currently learning Data Science and Time series data analysis, because i love coding with Python.  I'm a programmer who prefer enjoying the work instead of doing it.
+#### I am  Tanmay Barvi from India . I'm currently in my final year, pursuing a 3-year bachelor's degree in Information technology. Currently learning Data Science and Time series data analysis, because i love coding with Python.  I'm a programmer who prefer enjoying the work instead of doing it. 
 
+Don't worry, I'll not gonna tell you everything about me Here so have a look through my [resume](https://tanmaybarvi-resume.netlify.app/)
 &nbsp;
 ## `My Tech Stack 🤘`
 

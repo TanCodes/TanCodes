@@ -4,7 +4,8 @@
     <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/github.png"> 
 </p>
 
-#### You can call me a self taught half stack developer haha. The coder behind the TanCodes. I'm a programmer who is passionate about making websites , web apps , Desktop apps & web designings. Currently learning Data Science because i love coding with Python.
+#### I am  Tanmay Barvi from India . I'm currently in my final year, pursuing a 3-year bachelor's degree in Information technology. I prefer enjoying the work instead of doing it.   Currently learning Data Science and Time series data analysis, because i love coding with Python.
+
 &nbsp;
 ## `My Tech Stack 🤘`
 

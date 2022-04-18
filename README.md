@@ -57,7 +57,7 @@ Don't worry, I'll not gonna tell you everything about me Here so have a look thr
 > 
 
 * <a href="http://tancodes.atspace.cc/" target="blank">  <img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/43211/desktop-computer-emoji-clipart-md.png" alt="_tancodes_" height="25" width="25" /> Portfolio </a>
-* <a href="https://instagram.com/_tancodes_" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tancodes_" height="20" width="20" /> Instagram </a>
+* <a href="https://instagram.com/__tancodes__" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tancodes_" height="20" width="20" /> Instagram </a>
 * <a href="https://www.linkedin.com/in/tanmay-barvi-2a0206126/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-barvi-2a0206126/" height="20" width="20" /> LinkedIn </a>
 * <a href="https://twitter.com/tancodes" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tancodes" height="20" width="20" /> Twitter </a>
 * <a href="https://www.behance.net/tanmaybrv" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tanmaybrv" height="20" width="20" /> Behance </a>

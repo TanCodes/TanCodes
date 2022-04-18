@@ -38,7 +38,8 @@ Don't worry, I'll not gonna tell you everything about me Here so have a look thr
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  &nbsp &nbsp 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  &nbsp &nbsp 
  <a href="#" target="_blank"> <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195509/jquery-61c323b5e33214d6c3d442ed276eab68.png" alt="jquery" width="40" height="40"/> </a> &nbsp &nbsp
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a></p>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" alt="materialize" width="40" height="40"/> </a></p>
 
 #### Version control
 >

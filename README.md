@@ -29,6 +29,7 @@ Don't worry, I'll not gonna tell you everything about me Here so have a look thr
  <p align="left"> 
      <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  &nbsp &nbsp 
      <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp &nbsp 
+         <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp &nbsp 
      <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
@@ -56,7 +57,7 @@ Don't worry, I'll not gonna tell you everything about me Here so have a look thr
 ## `Find me around the web 🌎:`
 > 
 
-* <a href="http://tancodes.atspace.cc/" target="blank">  <img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/43211/desktop-computer-emoji-clipart-md.png" alt="_tancodes_" height="25" width="25" /> Portfolio </a>
+* <a href="http://tancodes.tech/" target="blank">  <img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/43211/desktop-computer-emoji-clipart-md.png" alt="_tancodes_" height="25" width="25" /> Portfolio </a>
 * <a href="https://instagram.com/__tancodes__" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tancodes_" height="20" width="20" /> Instagram </a>
 * <a href="https://www.linkedin.com/in/tanmay-barvi-2a0206126/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-barvi-2a0206126/" height="20" width="20" /> LinkedIn </a>
 * <a href="https://twitter.com/tancodes" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tancodes" height="20" width="20" /> Twitter </a>

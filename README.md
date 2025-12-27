@@ -1,78 +1,73 @@
-# Hi, I'm Tanmay  👋 👨‍💻
-&nbsp; 
-<p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/github.png"> 
+# Hi there, I'm Tanmay Barvi 👋 👨‍💻
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/github.png" alt="Tanmay Barvi banner" />
 </p>
 
-#### I am  Tanmay Barvi from India . I am a self-taught Web and Python developer with a keen interest in Web development, Data Analytics, and Software development. Currently learning Django, because i love working with Python.  I'm a programmer who prefer enjoying the work instead of doing it. 
+## 👋 About Me
 
-Don't worry, I'll not gonna tell you everything about me Here so have a look through my [resume](https://tanmaybarvi-resume.netlify.app/)
-&nbsp;
-## `My Tech Stack 🤘`
+I’m a **Software Engineer** from India with **2.6+ years of experience** building scalable backend systems using **Python and Django**, including **2+ years at a fast-paced, product-based fintech company (OneFin)** where I work on lending and banking workflows.
 
-####  Languages
+I focus on designing and integrating **robust, high-performance REST APIs**, optimizing database-heavy flows, and automating financial operations with tools like **Celery, Redis, and Docker**.
 
->
- <p align="left";> 
-     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp &nbsp 
-      <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp &nbsp 
-     <a href="#" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
- &nbsp &nbsp 
-      <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  &nbsp &nbsp 
-      <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+I also actively explore **AI/ML and data analysis** concepts and apply them in side projects and internal automations, gradually moving towards more **intelligent and data-driven systems**.
+
+Outside of work, I enjoy building full-stack projects, writing technical blogs, and sharing learnings through my website and social platforms.
+
+📄 You can also view my detailed resume here: **[Tanmay Barvi Resume](https://drive.google.com/file/d/13qpxnd0Ddz3EnnAWPQFdFu42EPuYCvhz/view?usp=sharing)**
+
+---
+
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/-DRF-0C4B33?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Celery" src="https://img.shields.io/badge/-Celery-3776AB?style=flat-square&logo=celery&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-4338CA?style=flat-square&logo=sentry&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="pytest" src="https://img.shields.io/badge/-pytest-0A9F37?style=flat-square&logo=pytest&logoColor=white" />
+  <img alt="unittest" src="https://img.shields.io/badge/-unittest-0A9F37?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-#### Databases
->
- <p align="left"> 
-     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  &nbsp &nbsp 
-     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp &nbsp 
-         <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp &nbsp 
-     <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</p>
+---
 
-#### Framework and Libraries
-> 
-  <p align="left"> 
- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  &nbsp &nbsp 
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  &nbsp &nbsp 
- <a href="#" target="_blank"> <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195509/jquery-61c323b5e33214d6c3d442ed276eab68.png" alt="jquery" width="40" height="40"/> </a> &nbsp &nbsp
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" alt="materialize" width="40" height="40"/> </a></p>
+## 🌐 Find Me Around the Web 🌎
 
-#### Version control
->
- <p align="left"> 
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp &nbsp
- <a href="#" target="_blank"> <img src="https://www.freepnglogos.com/uploads/512x512-logo-png/512x512-logo-github-icon-35.png" alt="github" width="40" height="40"/></a> 
-</p>
-
-#### UI designing tool
->
- <p align="left"> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-</p>
-     
-## `Find me around the web 🌎:`
-> 
-
-* <a href="http://tancodes.tech/" target="blank">  <img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/43211/desktop-computer-emoji-clipart-md.png" alt="_tancodes_" height="25" width="25" /> Portfolio </a>
-* <a href="https://instagram.com/__tancodes__" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tancodes_" height="20" width="20" /> Instagram </a>
-* <a href="https://www.linkedin.com/in/tanmay-barvi-2a0206126/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-barvi-2a0206126/" height="20" width="20" /> LinkedIn </a>
-* <a href="https://twitter.com/tancodes" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tancodes" height="20" width="20" /> Twitter </a>
-* <a href="https://www.behance.net/tanmaybrv" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tanmaybrv" height="20" width="20" /> Behance </a>
-* <a href="https://www.youtube.com/channel/UC370GTtJnvWs8wDH9UXoBzQ?view_as=subscriber" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tancodes" height="20" width="20" /> YouTube  </a> 
+- 🌍 Portfolio: **[tancodes.tech](https://tancodes.tech/)**
+- 💼 LinkedIn: **[linkedin.com/in/tanmaybarvi](https://www.linkedin.com/in/tanmaybarvi)**
+- 🐦 Twitter: **[@tancodes](https://twitter.com/tancodes)**
+- 📷 Instagram: **[**tancodes**](https://instagram.com/__tancodes__)**
+- 🎨 Behance: **[behance.net/tanmaybrv](https://www.behance.net/tanmaybrv)**
+- 📧 Email: **barvitanmay20@gmail.com**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanCodes/readme_img/main/ezgif-6-c5c72c3f9fb3.gif">
 </p>
 
-> My goal is to become a Full stack developer & a Data Scientist .
->For this i'm working hard. Soon i'll do achive my goal & make my parents Proud :)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tancodes&label=Profile%20views&color=0e75b6&style=flat" alt="tancodes profile views" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tancodes&label=Profile%20views&color=0e75b6&style=flat" alt="tancodes" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tancodes&show_icons=true&locale=en" alt="tancodes" /></p>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tancodes&show_icons=true&locale=en" alt="tancodes GitHub stats" />
+</p>
